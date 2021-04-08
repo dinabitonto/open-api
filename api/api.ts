@@ -1,3 +1,3 @@
-export * from './pets.service';
-import { PetsService } from './pets.service';
-export const APIS = [PetsService];
+export * from './user.service';
+import { UserService } from './user.service';
+export const APIS = [UserService];

@@ -2,14 +2,13 @@
 README.md
 api.module.ts
 api/api.ts
-api/pets.service.ts
+api/user.service.ts
 configuration.ts
 encoder.ts
 git_push.sh
 index.ts
-model/error.ts
 model/models.ts
-model/pet.ts
+model/user.ts
 ng-package.json
 package.json
 tsconfig.json
