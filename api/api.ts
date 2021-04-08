@@ -1,3 +1,3 @@
-export * from './user.service';
-import { UserService } from './user.service';
-export const APIS = [UserService];
+export * from './default.service';
+import { DefaultService } from './default.service';
+export const APIS = [DefaultService];
